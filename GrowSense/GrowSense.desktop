@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=GrowSense
+Exec=/usr/bin/python3 /home/jordan/Desktop/INterface.py
+Icon=/home/jordan/Desktop/Cannabis.png
+Terminal=false
